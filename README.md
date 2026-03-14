@@ -36,9 +36,9 @@ I love turning ideas into applications that help others.
   &nbsp;
   <a href="https://www.docker.com" title="Docker"><img src="icons/docker.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://git-scm.com/" title="Git"><img src="icons/git.svg" height="35" width="auto" /></a>
-  &nbsp;
   <a href="https://aws.amazon.com/" title="AWS"><img src="icons/aws.svg" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://go.dev/" title="Golang"><img src="icons/golang.svg" height="35" width="auto" /></a>
 </p>
 
 ## Github Statistics
@@ -49,5 +49,4 @@ I love turning ideas into applications that help others.
 ## Current Focus
 - Fullstack Development
 - AI/ML
-- Web3
 - Distributed Systems
