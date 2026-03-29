@@ -43,7 +43,8 @@ I love turning ideas into applications that help others.
 
 ## Github Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongggweiii&layout=compact"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </div>
 
 ## Current Focus
