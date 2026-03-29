@@ -2,7 +2,7 @@ name: Update Github README Stats
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main ] # Triggers the workflow on push to the main branch
   schedule:
     - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch: # Allows you to run it manually
@@ -15,14 +15,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate Stats Card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=hongggweiii&show_icons=true&theme=radical
-          path: profile/stats.svg
-          token: ${{ secrets.GH_PAT }}
 
       - name: Generate Top Languages Card
         uses: readme-tools/github-readme-stats-action@v1
